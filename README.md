@@ -25,5 +25,6 @@ Usage :</br>
 ./fdf maps/42.fdf</br>
 Control:</br>
 Use mouse to drag and move the position of the graphic.</br>
+Use mouse scroll to zoom in and out the graphic.</br>
 Use keyboard arrow up(^) and down(v) to control the elevation of the field.</br>
 Use keyboard arrow left(<) and right(>) to control the viewing angle.</br>
