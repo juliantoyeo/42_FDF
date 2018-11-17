@@ -34,11 +34,20 @@ More maps example could be found in the folder maps
 ./fdf maps/42.fdf
 ```
 
+# Control
 
-Control:</br>
-Use mouse to drag and move the position of the graphic.</br>
-Use mouse scroll to zoom in and out the graphic.</br>
-Use keyboard arrow up(^) and down(v) to control the elevation of the field.</br>
-Use keyboard arrow left(<) and right(>) to control the viewing angle.</br>
-Press 'c' to reset the screen.</br>
-Press 'ESC' to quit and close the screen.</br>
+Use mouse to drag and move the position of the graphic.
+<img src="https://github.com/juliantoyeo/42_FDF/blob/master/assets/fdf_drag.gif" width="640" height="400">
+
+Use mouse scroll to zoom in and out the graphic.
+<img src="https://github.com/juliantoyeo/42_FDF/blob/master/assets/fdf_zoom.gif" width="640" height="400">
+
+Use keyboard arrow up(^) and down(v) to control the elevation of the field.
+<img src="https://github.com/juliantoyeo/42_FDF/blob/master/assets/fdf_elevation.gif" width="640" height="400">
+
+Use keyboard arrow left(<) and right(>) to control the viewing angle.
+
+Press 'c' to reset the screen.
+
+Press 'ESC' to quit and close the screen.
+
