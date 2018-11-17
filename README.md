@@ -10,7 +10,7 @@ The program will read the file with the content from the following format:\
 
 # Output
 
-<img src="https://github.com/juliantoyeo/42_FDF/blob/master/assets/FDF_42.png" width="240" height="120">
+<img src="https://github.com/juliantoyeo/42_FDF/blob/master/assets/FDF_42.png" width="480" height="240">
 
 
 
