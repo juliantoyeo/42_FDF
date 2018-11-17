@@ -2,21 +2,11 @@
 
 This project is about basic computer graphic drawing with c.\
 The library used for the graphic is provided by my school which is base from X.11\
-</br>
-The program will read the file with the content from the following format:</br>
-</br>
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</br>
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</br>
-0 0 10 10 0 0 10 10 0 0 0 10 10 10 10 10 0 0 0</br>
-0 0 10 10 0 0 10 10 0 0 0 0 0 0 0 10 10 0 0</br>
-0 0 10 10 0 0 10 10 0 0 0 0 0 0 0 10 10 0 0</br>
-0 0 10 10 10 10 10 10 0 0 0 0 10 10 10 10 0 0 0</br>
-0 0 0 10 10 10 10 10 0 0 0 10 10 0 0 0 0 0 0</br>
-0 0 0 0 0 0 10 10 0 0 0 10 10 0 0 0 0 0 0</br>
-0 0 0 0 0 0 10 10 0 0 0 10 10 10 10 10 10 0 0</br>
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</br>
-0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</br>
-</br>
+
+# Input Data
+The program will read the file with the content from the following format:\
+![input_data](https://github.com/juliantoyeo/42_FDF/blob/master/assets/Example_input.png)\
+
 and the program with display a graphic base on the number provided (0 means flat, higher number will elevate the field)</br>
 More project information could be found in the folder project_pdf/fdf.en.pdf</br>
 More maps example could be found in the folder maps/</br>
