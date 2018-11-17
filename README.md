@@ -10,7 +10,7 @@ The program will read the file with the content from the following format:\
 
 # Output
 
-![](https://github.com/juliantoyeo/42_FDF/blob/master/assets/FDF_42.png | width=100)
+![](https://github.com/juliantoyeo/42_FDF/blob/master/assets/FDF_42.png){:height="700px" width="400px"}
 
 
 
