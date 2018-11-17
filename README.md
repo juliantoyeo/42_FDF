@@ -18,9 +18,9 @@ The program will read the file with the content from the following format:\
 <img src="https://github.com/juliantoyeo/42_FDF/blob/master/assets/FDF_earth.png" width="640" height="400">
 
 The program with display a graphic base on the number provided (0 means flat, higher number will elevate the field)\
-More project information could be found in the folder project_pdf/fdf.en.pdf(https://github.com/juliantoyeo/42_FDF/blob/master/project_pdf/fdf.en.pdf) . 
-More maps example could be found in the folder maps . 
-(https://github.com/juliantoyeo/42_FDF/tree/master/maps) . 
+More project information could be found in the folder project_pdf/fdf.en.pdf(https://github.com/juliantoyeo/42_FDF/blob/master/project_pdf/fdf.en.pdf) 
+More maps example could be found in the folder maps 
+(https://github.com/juliantoyeo/42_FDF/tree/master/maps) 
 \
 
 Usage :</br>
