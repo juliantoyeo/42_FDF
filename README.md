@@ -4,7 +4,7 @@ This project is about basic computer graphic drawing with c.\
 The library used for the graphic is provided by my school which is base from X.11\
 
 # Input Data
-The program will read the file with the content from the following format:\
+The program will read the file with the content from the following format:
 
 ![input_data](https://github.com/juliantoyeo/42_FDF/blob/master/assets/Example_input.png)
 
