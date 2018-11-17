@@ -29,3 +29,4 @@ Use mouse scroll to zoom in and out the graphic.</br>
 Use keyboard arrow up(^) and down(v) to control the elevation of the field.</br>
 Use keyboard arrow left(<) and right(>) to control the viewing angle.</br>
 Press 'c' to reset the screen.</br>
+Press 'ESC' to quit and close the screen.</br>
