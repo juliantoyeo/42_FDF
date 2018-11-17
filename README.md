@@ -1,6 +1,6 @@
 # 42_FDF
 
-This project is about basic computer graphic drawing with c.</br>
+This project is about basic computer graphic drawing with c.
 The library used for the graphic is provided by my school which is base from X.11</br>
 </br>
 The program will read the file with the content from the following format:</br>
